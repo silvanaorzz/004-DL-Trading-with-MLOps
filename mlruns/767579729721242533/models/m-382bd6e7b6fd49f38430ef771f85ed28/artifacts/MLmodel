@@ -1,0 +1,22 @@
+artifact_path: file:///Users/silvanaortizrodriguez/Documents/nuevo%20cuarto/mlruns/767579729721242533/models/m-382bd6e7b6fd49f38430ef771f85ed28/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.12.2
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.19.0
+    model_type: keras
+    save_format: tf
+mlflow_version: 3.5.1
+model_id: m-382bd6e7b6fd49f38430ef771f85ed28
+model_size_bytes: 2136281
+model_uuid: m-382bd6e7b6fd49f38430ef771f85ed28
+prompts: null
+run_id: 71094582a0d74f6387f663afd50b1814
+utc_time_created: '2025-11-12 01:40:23.851999'

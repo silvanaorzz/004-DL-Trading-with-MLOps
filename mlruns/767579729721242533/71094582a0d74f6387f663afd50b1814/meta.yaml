@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/silvanaortizrodriguez/Documents/nuevo%20cuarto/mlruns/767579729721242533/71094582a0d74f6387f663afd50b1814/artifacts
+end_time: 1762911631933
+entry_point_name: ''
+experiment_id: '767579729721242533'
+lifecycle_stage: active
+run_id: 71094582a0d74f6387f663afd50b1814
+run_name: cnn_training
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762911615708
+status: 4
+tags: []
+user_id: silvanaortizrodriguez

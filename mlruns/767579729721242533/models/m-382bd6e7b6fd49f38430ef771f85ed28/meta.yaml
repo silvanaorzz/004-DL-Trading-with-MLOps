@@ -1,0 +1,10 @@
+artifact_location: file:///Users/silvanaortizrodriguez/Documents/nuevo%20cuarto/mlruns/767579729721242533/models/m-382bd6e7b6fd49f38430ef771f85ed28/artifacts
+creation_timestamp: 1762911623846
+experiment_id: '767579729721242533'
+last_updated_timestamp: 1762911630804
+model_id: m-382bd6e7b6fd49f38430ef771f85ed28
+model_type: null
+name: cnn_model
+source_run_id: 71094582a0d74f6387f663afd50b1814
+status: 2
+status_message: null
